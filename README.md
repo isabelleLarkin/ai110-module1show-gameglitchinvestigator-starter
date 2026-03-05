@@ -25,13 +25,12 @@ It wrote the code, ran away, and now the game is unplayable.
 
 ## 📝 Document Your Experience
 
-- [ ] Describe the game's purpose.
-- [ ] Detail which bugs you found.
-- [ ] Explain what fixes you applied.
+- [ ] The purpose of the game is for the user to guess a number and receive hints from the game to help them get closer to the correct number.
+- [ ] The bugs I found were the logic being switched for the code for the hint messages and the mismatched types causing an error with the secret number.
+- [ ] To fix these bugs I switched the code for the hints, and updated the code so that the incompatible types weren't being compared to each other.
 
 ## 📸 Demo
-
-- [ ] [Insert a screenshot of your fixed, winning game here]
+- [ ] ![alt text](<Screenshot 2026-03-05 at 12.45.42 AM.png>)
 
 ## 🚀 Stretch Features
 
